@@ -8,6 +8,7 @@
  * @returns {*}
  */
 
+/* exported position */
 
 function position(sortedlist, target) {
   for(var i=0; i<sortedlist.length; i++) {
@@ -21,5 +22,3 @@ function position(sortedlist, target) {
   }
   return sortedlist.length;
 }
-
-console.log(position([1,3,5,6], 7));
