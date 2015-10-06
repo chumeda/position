@@ -1,6 +1,8 @@
 # Position
 This project is a function called position that when given a list of sorted numbers and a target number returns the index number that the number should be inserted
 
+![screenshot](https://github.com/chumeda/position/blob/master/Screen%20Shot%202015-10-06%20at%2012.18.52%20AM.png)
+
 # Installation
 Provide the following script in your html file:
 ```
